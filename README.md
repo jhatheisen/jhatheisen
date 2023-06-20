@@ -20,17 +20,35 @@ Working on Organize Bonanza a order organizing and inventory managment app for r
 ## Languages and Frameworks
 
 <p align="center">
-<a href="https://www.python.org">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
-</a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
+</a>
+<a href="https://www.python.org">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
 </a>
 <a href="https://react.dev">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
 </a>
 <a href="https://redux.js.org">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
+</a>
+<a href="https://nodejs.org/en">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
+</a>
+<a href="https://www.postgresql.org">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
+</a>
+<a href="https://aws.amazon.com/s3/">
+<img src="https://github.com/jhatheisen/jhatheisen/assets/106848904/a3ae5b57-f4cb-4f63-8202-9083848ab25a" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
+</a>
+<a href="https://www.sqlite.org/index.html">
+<img src="https://raw.githubusercontent.com/github/explore/2d218e3aa252dc90eef269b34eeec1fbd15dc07e/topics/sqlite/sqlite.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
 </a>
 </p>
 
