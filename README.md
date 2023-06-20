@@ -19,5 +19,20 @@ Working on Organize Bonanza a order organizing and inventory managment app for r
 
 ## Languages and Frameworks
 
+<p align="center">
+<a href="https://www.python.org">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
+</a>
+<a href="https://react.dev">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
+</a>
+<a href="https://redux.js.org">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
+</a>
+</p>
+
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jhatheisen)
 
