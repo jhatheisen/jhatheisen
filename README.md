@@ -19,4 +19,5 @@ Working on Organize Bonanza a order organizing and inventory managment app for r
 
 ## Languages and Frameworks
 
-[![Jhass' GitHub stats](https://github-readme-stats.vercel.app/api?username=jhatheisen)](https://github.com/jhatheisen/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jhatheisen)
+
