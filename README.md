@@ -14,7 +14,7 @@ Currently developing Organize Bonanza, a Power Apps and Power Automate–driven 
 
 <p align="center">
 <a href="https://learn.microsoft.com/en-us/power-apps/">
-<img src="[https://upload.wikimedia.org/wikipedia/commons/2/2e/Powerapps-logo.svg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB0nuDNyWcDv9XW-T5a1K1GEr2_TLn2hqunA&s)" alt="Power Apps" height="40" style="vertical-align:top; margin:4px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Powerapps-logo.svg" alt="Power Apps" height="40" style="vertical-align:top; margin:4px">
 </a>
 <a href="https://learn.microsoft.com/en-us/power-automate/">
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/6d/Microsoft_Power_Automate.svg" alt="Power Automate" height="40" style="vertical-align:top; margin:4px">
