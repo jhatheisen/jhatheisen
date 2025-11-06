@@ -10,7 +10,38 @@ Currently developing Organize Bonanza, a Power Apps and Power Automate–driven 
 📬 Reach me at: jhasstmarketing@gmail.com
 
 🧩 Core Tools & Platforms
-<p align="center"> <a href="https://learn.microsoft.com/en-us/power-apps/"> <img src="https://github.com/jhatheisen/jhatheisen/assets/106848904/f958da9a-6a04-49b3-bb1c-3197c7b6e9da" alt="PowerApps" height="40" style="vertical-align:top; margin:4px"> </a> <a href="https://learn.microsoft.com/en-us/power-automate/"> <img src="https://github.com/jhatheisen/jhatheisen/assets/106848904/05f35b52-bd32-4c3b-b40e-41dfd67b7775" alt="PowerAutomate" height="40" style="vertical-align:top; margin:4px"> </a> <a href="https://learn.microsoft.com/en-us/power-bi/"> <img src="https://github.com/jhatheisen/jhatheisen/assets/106848904/8cf1d83f-fc92-4d7e-a7e0-10c79a7b6eb2" alt="PowerBI" height="40" style="vertical-align:top; margin:4px"> </a> <a href="https://learn.microsoft.com/en-us/sharepoint/"> <img src="https://github.com/jhatheisen/jhatheisen/assets/106848904/dc99827c-13ce-4b5c-b5de-19eea7ee4f0e" alt="SharePoint" height="40" style="vertical-align:top; margin:4px"> </a> <a href="https://learn.microsoft.com/en-us/azure/"> <img src="https://github.com/jhatheisen/jhatheisen/assets/106848904/3147d893-53d4-4b07-9ed1-57e911db17c7" alt="Azure" height="40" style="vertical-align:top; margin:4px"> </a> <a href="https://www.microsoft.com/en-us/microsoft-365"> <img src="https://github.com/jhatheisen/jhatheisen/assets/106848904/663f5e9b-c75d-4a7a-aed8-1c69470d21e9" alt="M365" height="40" style="vertical-align:top; margin:4px"> </a> <a href="https://learn.microsoft.com/en-us/power-apps/maker/data-platform-intro"> <img src="https://github.com/jhatheisen/jhatheisen/assets/106848904/48a6e7ea-7db9-4d16-b3b8-9e72ec23b4a5" alt="Dataverse" height="40" style="vertical-align:top; margin:4px"> </a> <a href="https://learn.microsoft.com/en-us/sql/"> <img src="https://raw.githubusercontent.com/github/explore/2d218e3aa252dc90eef269b34eeec1fbd15dc07e/topics/sql/sql.png" alt="SQL" height="40" style="vertical-align:top; margin:4px"> </a> <a href="https://developer.microsoft.com/en-us/office/dev-program"> <img src="https://github.com/jhatheisen/jhatheisen/assets/106848904/df6c7535-b693-4c47-bf31-9390b6fef08e" alt="OfficeDev" height="40" style="vertical-align:top; margin:4px"> </a> </p>
+## 🧩 Core Tools & Platforms
+
+<p align="center">
+<a href="https://learn.microsoft.com/en-us/power-apps/">
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Powerapps-logo.svg" alt="Power Apps" height="40" style="vertical-align:top; margin:4px">
+</a>
+<a href="https://learn.microsoft.com/en-us/power-automate/">
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6d/Microsoft_Power_Automate.svg" alt="Power Automate" height="40" style="vertical-align:top; margin:4px">
+</a>
+<a href="https://learn.microsoft.com/en-us/power-bi/">
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/New_Power_BI_Logo.svg" alt="Power BI" height="40" style="vertical-align:top; margin:4px">
+</a>
+<a href="https://learn.microsoft.com/en-us/sharepoint/">
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/42/Microsoft_SharePoint_%282019%E2%80%93present%29_logo.svg" alt="SharePoint" height="40" style="vertical-align:top; margin:4px">
+</a>
+<a href="https://learn.microsoft.com/en-us/azure/">
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure_%282019%E2%80%93present%29.svg" alt="Azure" height="40" style="vertical-align:top; margin:4px">
+</a>
+<a href="https://www.microsoft.com/en-us/microsoft-365">
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Microsoft_365_logo.svg" alt="Microsoft 365" height="40" style="vertical-align:top; margin:4px">
+</a>
+<a href="https://learn.microsoft.com/en-us/power-apps/maker/data-platform-intro">
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Microsoft_Dataverse_logo.svg" alt="Dataverse" height="40" style="vertical-align:top; margin:4px">
+</a>
+<a href="https://learn.microsoft.com/en-us/sql/">
+<img src="https://raw.githubusercontent.com/github/explore/2d218e3aa252dc90eef269b34eeec1fbd15dc07e/topics/sql/sql.png" alt="SQL" height="40" style="vertical-align:top; margin:4px">
+</a>
+<a href="https://developer.microsoft.com/en-us/office/dev-program">
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Office_Dev_Logo.svg" alt="Office Dev" height="40" style="vertical-align:top; margin:4px">
+</a>
+</p>
+
 ⚙️ What I Do
 
 🧠 Design Canvas & Model-Driven Power Apps for business process automation
