@@ -12,33 +12,34 @@ Currently developing Organize Bonanza, a Power Apps and Power Automate–driven 
 🧩 Core Tools & Platforms
 ## 🧩 Core Tools & Platforms
 
+
 <p align="center">
 <a href="https://learn.microsoft.com/en-us/power-apps/">
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Powerapps-logo.svg" alt="Power Apps" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/loryanstrant/MicrosoftCloudLogos/main/Power%20Platform/Power%20Apps/PowerApps.svg" alt="Power Apps" height="40" style="vertical-align:top; margin:4px">
 </a>
 <a href="https://learn.microsoft.com/en-us/power-automate/">
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/6d/Microsoft_Power_Automate.svg" alt="Power Automate" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/loryanstrant/MicrosoftCloudLogos/main/Power%20Platform/Power%20Automate/PowerAutomate.svg" alt="Power Automate" height="40" style="vertical-align:top; margin:4px">
 </a>
 <a href="https://learn.microsoft.com/en-us/power-bi/">
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/New_Power_BI_Logo.svg" alt="Power BI" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/PowerBI.svg" alt="Power BI" height="40" style="vertical-align:top; margin:4px">
 </a>
 <a href="https://learn.microsoft.com/en-us/sharepoint/">
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/42/Microsoft_SharePoint_%282019%E2%80%93present%29_logo.svg" alt="SharePoint" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/loryanstrant/MicrosoftCloudLogos/main/Microsoft%20365/SharePoint/SharePoint.svg" alt="SharePoint" height="40" style="vertical-align:top; margin:4px">
 </a>
 <a href="https://learn.microsoft.com/en-us/azure/">
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure_%282019%E2%80%93present%29.svg" alt="Azure" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/loryanstrant/MicrosoftCloudLogos/main/Azure/Azure.svg" alt="Azure" height="40" style="vertical-align:top; margin:4px">
 </a>
 <a href="https://www.microsoft.com/en-us/microsoft-365">
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Microsoft_365_logo.svg" alt="Microsoft 365" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/loryanstrant/MicrosoftCloudLogos/main/Microsoft%20365/Microsoft365.svg" alt="Microsoft 365" height="40" style="vertical-align:top; margin:4px">
 </a>
 <a href="https://learn.microsoft.com/en-us/power-apps/maker/data-platform-intro">
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Microsoft_Dataverse_logo.svg" alt="Dataverse" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/loryanstrant/MicrosoftCloudLogos/main/Power%20Platform/Dataverse/Dataverse.svg" alt="Dataverse" height="40" style="vertical-align:top; margin:4px">
 </a>
 <a href="https://learn.microsoft.com/en-us/sql/">
 <img src="https://raw.githubusercontent.com/github/explore/2d218e3aa252dc90eef269b34eeec1fbd15dc07e/topics/sql/sql.png" alt="SQL" height="40" style="vertical-align:top; margin:4px">
 </a>
 <a href="https://developer.microsoft.com/en-us/office/dev-program">
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Office_Dev_Logo.svg" alt="Office Dev" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/loryanstrant/MicrosoftCloudLogos/main/Microsoft%20365/OfficeDev/OfficeDev.svg" alt="Office Dev" height="40" style="vertical-align:top; margin:4px">
 </a>
 </p>
 
